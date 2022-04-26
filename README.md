@@ -7,8 +7,8 @@ A motivated individual with BSc in communication Engineering.
 - system administration.
 
 # contact
-- Linkedin:https://www.linkedin.com/in/im-ayman-ibrahim/
-- Email:eng.ayman.ibrahim.ahmed@gmail.com
+- Linkedin: https://www.linkedin.com/in/im-ayman-ibrahim/
+- Email: eng.ayman.ibrahim.ahmed@gmail.com
 
 
 
