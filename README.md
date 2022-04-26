@@ -4,17 +4,13 @@
 - Linkedin:https://www.linkedin.com/in/im-ayman-ibrahim/
 - Email:eng.ayman.ibrahim.ahmed@gmail.com
 
-<h3 align="left">Contact:</h3
-  <p align="left">
-  <a href"https://www.linkedin.com/in/im-ayman-ibrahim/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Ayman Ibrahim" height="30" width="40" /></a>
 <i>contact:</i><br>
 
 <a href="https://www.linkedin.com/in/im-ayman-ibrahim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 ></a>
+><a href="https://www.linkedin.com/in/im-ayman-ibrahim/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email"></a>
+></a>
 
-</div>
 <!--
 **Ayman58/Ayman58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
