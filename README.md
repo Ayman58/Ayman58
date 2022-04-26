@@ -1,5 +1,8 @@
 ### Hi there 👋
 ### my name in Ayman Ibrahim 
+A motivated individual with BSc in communication Engineering, having a solid knowledge of telecom
+applications with software development, database queries, and system administration skills.
+
 
 - Linkedin:https://www.linkedin.com/in/im-ayman-ibrahim/
 - Email:eng.ayman.ibrahim.ahmed@gmail.com
