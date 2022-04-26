@@ -1,7 +1,6 @@
 # Ayman Ibrahim 
-
 A motivated individual with BSc in communication Engineering.
-have a solid knowledge of: 
+## have a solid knowledge of: 
 - telecom applications.
 - software development. 
 - database queries.
